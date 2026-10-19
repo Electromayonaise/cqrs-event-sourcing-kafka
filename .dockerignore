@@ -1,0 +1,10 @@
+**/target
+**/.idea
+**/.settings
+**/.project
+.git
+evidencias
+entrega
+*.png
+*.pdf
+*.docx
