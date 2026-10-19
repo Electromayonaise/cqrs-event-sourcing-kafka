@@ -1,0 +1,5 @@
+# Copia temporal de fuentes usada para generar el PDF de la entrega
+entrega/_fonts_tmp/
+
+# Scripts y evidencia usados para generar el documento (respuestas, logs)
+evidencias/
